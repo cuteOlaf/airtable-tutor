@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  position: relative;
+}
+
+.logout {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.classContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100vh;
+}
